@@ -10,6 +10,8 @@ export const getAbonos = async (req, res) => {
   }
 };
 // HOLA 
+console.log("hola desde railway");
+
 
 export const getAbono = async (req, res) => {
     try {
